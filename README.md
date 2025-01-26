@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rayhan Ashlikh Rosyada</h1>
-<h3 align="center">A Computer Science Student, interested towards Cloud Computing and Backend Development. Currently joining Bangkit Academy 2024 Batch 1 as Cloud Computing Cohort!</h3>
+<h3 align="center">A Computer Science Student, interested towards Cloud Computing and Backend Development. A graduate of Bangkit Academy 2024 Batch 1 as Cloud Computing Cohort!</h3>
 
 - 🌱 I’m currently learning **Cloud Computing, Backend Development**
 
